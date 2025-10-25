@@ -9,7 +9,7 @@ bot.on("massage", function (msg){
     const chatId = msg.chat.id;
     const text = msg.text;
 
-    bot.sendMessage (chatID,    `salom ->  ${text}`)
+    bot.sendMessage (chatId,   `salom ->  ${text}`);
 
     console.log(msg);
 
