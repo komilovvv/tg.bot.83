@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/komilovvv/tg.bot.83/issues"
   },
-  "homepage": "https://github.com/komilovvv/tg.bot.83#readme"
+  "homepage": "https://github.com/komilovvv/tg.bot.83#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
 }
